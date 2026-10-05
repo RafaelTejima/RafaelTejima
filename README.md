@@ -63,7 +63,7 @@ Desenvolvedor focado em **Front-end**, construindo interfaces modernas, responsi
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelTejima&show_icons=true&theme=cobalt&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" alt="Estatísticas do GitHub" />
   
   <!-- Card com as Linguagens Mais Usadas -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTejima&layout=compact&theme=cobalt&hide_border=true&hide=html,css&title_color=00D4FF&text_color=ffffff" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTejima&layout=compact&theme=cobalt&hide_border=true&title_color=00D4FF&text_color=ffffff" alt="Linguagens mais usadas" />
 </div>
 
 <br />
